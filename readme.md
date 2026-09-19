@@ -5,12 +5,18 @@
 
 ### 👨‍💻 About Me
 
-- 💡 I build **backend systems, automation bots & mobile apps**  
-- 🤖 I create **Telegram & WhatsApp automation bots**  
-- 💳 Integrated various **payment gateways** (Razorpay, Cashfree, Stripe)  
-- 🌐 Experienced in **web scraping** with data saved as **CSV**  
-- 🛠️ I enjoy **DevOps**, **domain setup using Nginx**, and cloud deployments  
-- 🚀 I can handle **projects solo**, from **backend development to deployment**
+- ⚙️ Build **scalable backend systems, high-performance REST APIs & automation services**
+- 📱 Develop **cross-platform Flutter applications for iOS, Android, Windows & Linux**
+- 🛡️ Perform **penetration testing, vulnerability assessment & API security testing**
+- 🔐 Implement **secure authentication, authorization, JWT, session management & access control**
+- 🤖 Develop **Telegram & WhatsApp bots, automation systems & custom integrations**
+- 🕷️ Build **web scraping, data extraction & automated data processing pipelines**
+- 💳 Integrate **Razorpay, Cashfree, Stripe & other payment systems**
+- 🐳 Deploy and manage **production infrastructure with Docker, Linux, Nginx & cloud platforms**
+- ☁️ Configure **servers, domains, reverse proxies, SSL/TLS & production environments**
+- 🔄 Build **CI/CD pipelines and automated deployment workflows**
+- 🗄️ Design and optimize **databases, caching layers & backend infrastructure**
+- 🚀 Handle projects **end-to-end — development, security, deployment & maintenance**
 
 ---
 
