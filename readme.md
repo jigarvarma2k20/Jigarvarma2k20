@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jigar Varma</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">Backend Developer • DevOps • Security • Flutter</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- ⚙️ Build scalable backend systems, high-performance REST APIs & automation services.
-- 📱 Develop cross-platform Flutter applications for iOS, Android, Windows & Linux.
-- 🛡️ Perform penetration testing, vulnerability assessment & API security testing.
-- 🔐 Implement secure authentication, authorization, JWT, session management & access control.
-- 🤖 Develop Telegram & WhatsApp bots, automation systems & custom integrations.
-- 🕷️ Build web scraping, data extraction & automated data processing pipelines.
-- 💳 Integrate Razorpay, Cashfree, Stripe & other payment systems.
-- 🐳 Deploy and manage production infrastructure with Docker, Linux, Nginx & cloud platforms.
-- ☁️ Configure servers, domains, reverse proxies, SSL/TLS & production environments.
-- 🔄 Build CI/CD pipelines and automated deployment workflows.
-- 🗄️ Design and optimize databases, caching layers & backend infrastructure.
-- 🚀 Handle projects end-to-end — development, security, deployment & maintenance.
+I build **backend systems, cross-platform applications, automation tools & secure infrastructure** — taking projects from **development to production**.
+
+- ⚙️ **Backend & APIs** — Scalable systems, REST APIs & databases
+- 📱 **Flutter** — iOS, Android, Windows & Linux
+- 🛡️ **Security** — Pentesting, vulnerability assessment & API security
+- 🤖 **Automation** — Telegram, WhatsApp, workflow, task automation, scraping & integrations
+- 🐳 **DevOps** — Docker, Linux, Nginx, cloud & CI/CD
+- 💳 **Payments** — Razorpay, Cashfree, Stripe & integrations
 
 ---
 
